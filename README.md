@@ -58,6 +58,40 @@ To set APP Key
 ## OUTPUT 
 
 
+BULID CONFIGURATION 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/19ab3d33-bb1a-4f5d-bd11-b376ba2d8224" />
+
+
+AT COMMANDS
+
+<img width="1920" height="1200" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/c5d9a1af-7f58-491f-ad4d-c8458733ae0f" />
+
+
+<img width="1033" height="604" alt="image" src="https://github.com/user-attachments/assets/d46e411d-7072-458d-820c-7f427d11c0b5" />
+
+
+<img width="1034" height="597" alt="image" src="https://github.com/user-attachments/assets/596406e1-89eb-42a5-915e-aef98e72b213" />
+
+
+<img width="1920" height="1200" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/d5582420-f8aa-45b6-bcd3-8f6a27bc66c9" />
+
+
+<img width="1920" height="1200" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/9716f2c2-34ed-4a4b-b38c-bb6f4a7e3ede" />
+
+
+<img width="1920" height="1200" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/b6026de6-ca86-4bae-afcb-c16384674b78" />
+
+
+<img width="1920" height="1200" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/74ede65f-c989-4500-be2a-8986ea1b0bf4" />
+
+
+<img width="1920" height="1200" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/7dfc3bad-581e-4b47-adb8-50fdbfa8b50b" />
+
+
+<img width="1920" height="1200" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/080efbd8-268e-4851-8420-208ead1c3d8c" />
+
+
 ## Result: 
 
   The Network server and end device for transferring data on the network has been accomplished.
